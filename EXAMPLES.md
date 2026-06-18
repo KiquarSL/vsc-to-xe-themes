@@ -1,5 +1,6 @@
-# Xed Themes for C/C++
+# Xed Themes
 
+# C++
 Here are previews of the themes available in this repository. All screenshots are shown with C++ syntax highlighting.
 
 ## Catppuccin Frappe
@@ -14,7 +15,7 @@ Here are previews of the themes available in this repository. All screenshots ar
 ## GitHub
 ![GitHub](../screenshots/cpp-github.png)
 
-## ItsAky
+## Itsaky
 ![ItsAky](../screenshots/cpp-itsaky.png)
 
 ## Monokai Ryo Anthracite
