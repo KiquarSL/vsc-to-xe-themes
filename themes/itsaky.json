@@ -1,8 +1,8 @@
 {
-  "$schema": "../schema.json",
+  "$schema": "https://raw.githubusercontent.com/Xed-Editor/Theme-Template/refs/heads/main/schema/schema.json",
   "id": "itsaky",
   "name": "Itsaky",
-  "minAppVersion": 87,
+  "minAppVersion": 95,
   "inheritBase": true,
   "dark": {
     "baseColors": {
