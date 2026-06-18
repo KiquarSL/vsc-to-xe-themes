@@ -1,5 +1,3 @@
-# Xed Themes
-
 # C++
 Here are previews of the themes available in this repository. All screenshots are shown with C++ syntax highlighting.
 
