@@ -1,6 +1,6 @@
 # Themes for Xed-Editor
 
-This is list of themes for [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) from VSCode
+This is list of themes for [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor)
 
 ## How to use
 
